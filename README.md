@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Пэйнт's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcession&count_private=true&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcession&langs_count=10&theme=gotham&layout=compact)
+
 <!--
 **xcession/xcession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
